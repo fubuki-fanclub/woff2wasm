@@ -3,3 +3,8 @@
 /woff2_compress
 /woff2_decompress
 /woff2_info
+cmake-build**
+*.ttf
+*.woff
+*.woff2
+*.vscode

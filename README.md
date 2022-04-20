@@ -1,4 +1,10 @@
-﻿This is a README for the font compression reference code. There are several
+﻿# woff2wasm
+Woff2 compiled as a WASM module.
+
+build with `emcmake`.
+
+## Original Readme
+This is a README for the font compression reference code. There are several
 compression related modules in this repository.
 
 brotli/ contains reference code for the Brotli byte-level compression
